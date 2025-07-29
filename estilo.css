@@ -1,0 +1,33 @@
+html {
+    background-color:darkorange;
+    color: white;
+    line-height: 20px;
+}
+
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: overline;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: none;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+#ingredientes {
+    text-align: left;
+}
+
+#preparo {
+    text-align: right;
+}
